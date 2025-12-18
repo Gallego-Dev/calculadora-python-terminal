@@ -14,9 +14,10 @@ Calculadora desenvolvida em Python para execução em terminal, com múltiplas o
 ## 🛠 Tecnologias
 - Python 3
 
-## ▶️ Como executar
-```bash
-python calculadora.py
+👨‍💻 Autor
+
+Gallego Dev
+Python Dev Iniciante
 
 
 ---
