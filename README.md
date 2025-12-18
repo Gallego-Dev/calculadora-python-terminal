@@ -23,7 +23,6 @@ Python Dev Iniciante
 ---
 
 ## 📌 Nome do arquivo
-Renomeia seu arquivo para algo profissional:
 - `calculadora.py` ✅
 
 ---
