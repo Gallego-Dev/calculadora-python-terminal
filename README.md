@@ -24,3 +24,22 @@ Este projeto foi desenvolvido com:
 1. Clone o repositório
    ```bash
    git clone https://github.com/Gallego-Dev/calculadora-python-terminal
+2. Entre na pasta
+   ```bash
+   cd calculadora-python-terminal
+3. Execute o programa
+    ```bash
+    python calculadora.py
+4. Escolha a operação no menu e digite os números
+    ```bash
+    Escolha a operação:
+1 - Soma
+2 - Subtração
+...
+Digite sua escolha: 1
+Digite o primeiro número: 10
+Digite o segundo número: 5
+Resultado: 15
+
+
+
