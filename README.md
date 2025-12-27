@@ -1,16 +1,26 @@
-## 📚 O que Aprendi
-- Validação de entradas do usuário
-- Organização de código
-- Importância da legibilidade
-- Pensar como o computador executa cada passo
+# Calculadora Python Terminal
 
-## 🔮 Próximas Melhorias
-- Salvar dados em arquivo
-- Interface gráfica simples
-- Refatoração do código
-- Uso futuro de bibliotecas como Pandas
+![Python](https://img.shields.io/badge/Python-3.x-blue)
 
-## 👤 Autor
-**Gallego-Dev**  
-💻 Estudante de programação | Python  
-🔗 GitHub: https://github.com/Gallego-Dev
+## 🧮 Sobre o Projeto
+Calculadora em Python para terminal com várias operações matemáticas básicas e validação de entrada.
+O objetivo deste projeto é praticar lógica de programação, estruturas de controle, entrada de dados
+e tratamento de erros em um programa real.
+
+## 🚀 Funcionalidades
+- Soma
+- Subtração
+- Multiplicação
+- Divisão
+- Menu interativo no terminal
+- Validação de entrada para evitar erro de execução
+
+## 🛠 Tecnologias
+Este projeto foi desenvolvido com:
+- 🐍 Python 3
+- 📌 Sem dependências externas
+
+## ▶️ Como Usar
+1. Clone o repositório
+   ```bash
+   git clone https://github.com/Gallego-Dev/calculadora-python-terminal
